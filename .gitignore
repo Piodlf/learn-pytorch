@@ -1,2 +1,5 @@
 # PetImages (too large)
 PetImages/
+
+# training_data.npy (too large)
+training_data.npy
